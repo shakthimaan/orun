@@ -7,6 +7,7 @@ authors: "Stephen Dolan <stephen.dolan@cl.cam.ac.uk>"
 license: "MIT"
 homepage: "https://github.com/ocaml-bench/orun"
 bug-reports: "https://github.com/ocaml-bench/orun/issues"
+dev-repo: "git+https://github.com/shakthimaan/orun"
 depends:
   [ "ocaml"
     "dune" {>= "1.2"}
